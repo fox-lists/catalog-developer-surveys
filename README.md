@@ -1,8 +1,13 @@
 # awesome-developer-surveys
 
-Data can drive better decisions. Here are surveys that gather particular data about particular developers.
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+Data can drive better decisions. Here are surveys that gather particular data about particular developers. Perhaps this isn't [_truly awesome_](https://github.com/sindresorhus/awesome/blob/main/awesome.md), but I still think it's useful.
+
+## Contents
 
 - [awesome-developer-surveys](#awesome-developer-surveys)
+  - [Contents](#contents)
   - [Stack Overflow Developer Survey](#stack-overflow-developer-survey)
   - [JetBrains State of Developer Ecosystem](#jetbrains-state-of-developer-ecosystem)
   - [State of JS](#state-of-js)
