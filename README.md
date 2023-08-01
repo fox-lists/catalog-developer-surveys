@@ -2,7 +2,31 @@
 
 Data can drive better decisions. Here are surveys that gather particular data about particular developers.
 
-## Stack Overflow Developer Survey ([link](https://insights.stackoverflow.com/survey))
+- [awesome-developer-surveys](#awesome-developer-surveys)
+  - [Stack Overflow Developer Survey](#stack-overflow-developer-survey)
+  - [JetBrains State of Developer Ecosystem](#jetbrains-state-of-developer-ecosystem)
+  - [State of JS](#state-of-js)
+  - [State of CSS](#state-of-css)
+  - [State of GraphQL](#state-of-graphql)
+  - [Go Survey](#go-survey)
+  - [Rust Survey](#rust-survey)
+  - [State of Clojure](#state-of-clojure)
+  - [State of Haskell](#state-of-haskell)
+  - [State of Postgres](#state-of-postgres)
+  - [State of Databases](#state-of-databases)
+  - [GitLab DevSecOps](#gitlab-devsecops)
+  - [State of Open Source Software](#state-of-open-source-software)
+  - [CNCF Annual Survey](#cncf-annual-survey)
+  - [GDC](#gdc)
+  - [IGDA](#igda)
+  - [Hacker Rank](#hacker-rank)
+  - [Hacker Earth](#hacker-earth)
+  - [AWS Container Security Survey](#aws-container-security-survey)
+  - [Indexes](#indexes)
+
+## Stack Overflow Developer Survey
+
+Link to [site](https://insights.stackoverflow.com/survey).
 
 - [2011](https://stackoverflow.blog/2011/01/11/survey-says)
 - [2012](https://stackoverflow.blog/2012/02/10/survey-result)
@@ -27,31 +51,35 @@ Data can drive better decisions. Here are surveys that gather particular data ab
 - [2018](https://www.jetbrains.com/research/devecosystem-2018)
 - [2017](https://www.jetbrains.com/research/devecosystem-2017)
 
-## [State of JS](https://stateofjs.com)
-  - [2016](http://2016.stateofjs.com) (http)
-  - [2017](https://2017.stateofjs.com)
-  - [2018](https://2018.stateofjs.com)
-  - [2019](https://2019.stateofjs.com)
-  - [2020](https://2020.stateofjs.com)
-  - [2021](https://2021.stateofjs.com)
-  - [2022](https://2022.stateofjs.com)
-  - [2023](https://2023.stateofjs.com) (future)
+## State of JS
 
-## [State of CSS](https://stateofcss.com)
-  - [2019](https://2019.stateofcss.com)
-  - [2020](https://2020.stateofcss.com)
-  - [2021](https://2021.stateofcss.com)
-  - [2022](https://2022.stateofcss.com)
-  - [2023](https://2023.stateofcss.com)
+Link to [site](https://stateofjs.com).
 
-## [State of GraphQL](https://www.stateofgraphql.com)
+- [2016](https://2016.stateofjs.com)
+- [2017](https://2017.stateofjs.com)
+- [2018](https://2018.stateofjs.com)
+- [2019](https://2019.stateofjs.com)
+- [2020](https://2020.stateofjs.com)
+- [2021](https://2021.stateofjs.com)
+- [2022](https://2022.stateofjs.com)
 
+## State of CSS
 
-## State of DB
+Link to [site](https://stateofcss.com).
 
-- [2022](https://2022.stateofdb.com)
+- [2019](https://2019.stateofcss.com)
+- [2020](https://2020.stateofcss.com)
+- [2021](https://2021.stateofcss.com)
+- [2022](https://2022.stateofcss.com)
+- [2023](https://2023.stateofcss.com)
 
-## Go
+## State of GraphQL
+
+Link to [site](https://www.stateofgraphql.com).
+
+- [2022](https://2022.stateofgraphql.com)
+
+## Go Survey
 
 - [2023](https://go.dev/blog/survey2023-q1-results)
 - [2022](https://go.dev/blog/survey2022-q2-results)
@@ -63,6 +91,8 @@ Data can drive better decisions. Here are surveys that gather particular data ab
 - [2016](https://go.dev/blog/survey2016-results)
 
 ## Rust Survey
+
+Link to [GitHub repository](https://github.com/rust-lang/surveys).
 
 - [2021](https://blog.rust-lang.org/2022/02/15/Rust-Survey-2021.html)
 - [2020](https://blog.rust-lang.org/2020/12/16/rust-survey-2020.html)
@@ -92,6 +122,12 @@ Data can drive better decisions. Here are surveys that gather particular data ab
 - [2022](https://www.timescale.com/state-of-postgres/2022)
 - [2021](https://www.timescale.com/state-of-postgres/2021)
 
+## State of Databases
+
+Link to [site](https://stateofdb.com).
+
+- [2022](https://2022.stateofdb.com)
+
 ## GitLab DevSecOps
 
 - [2023](https://about.gitlab.com/developer-survey)
@@ -109,16 +145,20 @@ Data can drive better decisions. Here are surveys that gather particular data ab
 - [2017](https://octoverse.github.com/2017)
 - [2016](https://octoverse.github.com/2016)
 
-## CNCF Annual Survey ([link](https://github.com/cncf/surveys)
+## CNCF Annual Survey
+
+Link to [GitHub repository](https://github.com/cncf/surveys).
 
 - [2022](https://www.cncf.io/reports/cncf-annual-survey-2022)
 - [2021](https://www.cncf.io/reports/cncf-annual-survey-2021)
 
-# GDC
+## GDC
 
 - [2022](https://images.reg.techweb.com/Web/UBMTechweb/%7B0e130537-da8b-43da-971d-ccd0104cdb02%7D_GDC22_Report_SOTI.pdf)
 
-## IGDA ([link](https://igda.org/dss))
+## IGDA
+
+Link to [GitHub repository](https://igda.org/dss).
 
 ## Hacker Rank
 
