@@ -1,8 +1,6 @@
-# awesome-developer-surveys
+# developer-surveys
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-Data can drive better decisions. Here are surveys that gather particular data about particular developers. Perhaps this isn't [_truly awesome_](https://github.com/sindresorhus/awesome/blob/main/awesome.md), but I still think it's useful.
+Data can drive better decisions. Here are deve;p[er surveys that gather particular data about particular developers.
 
 ## Contents
 
