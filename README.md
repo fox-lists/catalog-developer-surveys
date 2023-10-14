@@ -1,33 +1,43 @@
-# developer-surveys
+# list-developer-surveys <!-- omit from toc -->
 
 Data can drive better decisions. Here are deve;p[er surveys that gather particular data about particular developers.
 
-## Contents
+## Contents <!-- omit from toc -->
 
-- [awesome-developer-surveys](#awesome-developer-surveys)
-  - [Contents](#contents)
+- [Developers](#developers)
   - [Stack Overflow Developer Survey](#stack-overflow-developer-survey)
   - [JetBrains State of Developer Ecosystem](#jetbrains-state-of-developer-ecosystem)
-  - [State of JS](#state-of-js)
+  - [HackerRank Developer Skills Report](#hackerrank-developer-skills-report)
+- [Language Ecosystems](#language-ecosystems)
+  - [State of JavaScript](#state-of-javascript)
   - [State of CSS](#state-of-css)
+  - [State of HTML](#state-of-html)
   - [State of GraphQL](#state-of-graphql)
   - [Go Survey](#go-survey)
   - [Rust Survey](#rust-survey)
   - [State of Clojure](#state-of-clojure)
   - [State of Haskell](#state-of-haskell)
-  - [State of Postgres](#state-of-postgres)
-  - [State of Databases](#state-of-databases)
+- [Occuptations](#occuptations)
+  - [Design Tools Survey](#design-tools-survey)
   - [GitLab DevSecOps](#gitlab-devsecops)
   - [State of Open Source Software](#state-of-open-source-software)
+  - [State of the API Report](#state-of-the-api-report)
+  - [Jamstack Community Survey](#jamstack-community-survey)
+- [Database Ecosystem](#database-ecosystem)
+  - [State of Postgres](#state-of-postgres)
+  - [State of Databases](#state-of-databases)
+- [Smaller Surveys](#smaller-surveys)
+  - [CodinGame Developer Survey](#codingame-developer-survey)
   - [CNCF Annual Survey](#cncf-annual-survey)
   - [GDC](#gdc)
   - [IGDA](#igda)
-  - [Hacker Rank](#hacker-rank)
   - [Hacker Earth](#hacker-earth)
   - [AWS Container Security Survey](#aws-container-security-survey)
-  - [Indexes](#indexes)
+- [Indexes](#indexes)
 
-## Stack Overflow Developer Survey
+## Developers
+
+### Stack Overflow Developer Survey
 
 Link to [site](https://insights.stackoverflow.com/survey).
 
@@ -45,7 +55,7 @@ Link to [site](https://insights.stackoverflow.com/survey).
 - [2022](https://survey.stackoverflow.co/2022)
 - [2023](https://survey.stackoverflow.co/2023)
 
-## JetBrains State of Developer Ecosystem
+### JetBrains State of Developer Ecosystem
 
 - [2022](https://www.jetbrains.com/lp/devecosystem-2022)
 - [2021](https://www.jetbrains.com/lp/devecosystem-2021)
@@ -54,7 +64,18 @@ Link to [site](https://insights.stackoverflow.com/survey).
 - [2018](https://www.jetbrains.com/research/devecosystem-2018)
 - [2017](https://www.jetbrains.com/research/devecosystem-2017)
 
-## State of JS
+### HackerRank Developer Skills Report
+
+- [2023](https://www.hackerrank.com/research/developer-skills/2023)
+- [2022](https://www.hackerrank.com/research/developer-skills/2022)
+- [2021](https://www.hackerrank.com/research/developer-skills/2021)
+- [2020](https://www.hackerrank.com/research/developer-skills/2020)
+- [2019](https://www.hackerrank.com/research/developer-skills/2019)
+- [2018](https://www.hackerrank.com/research/developer-skills/2018)
+
+## Language Ecosystems
+
+### State of JavaScript
 
 Link to [site](https://stateofjs.com).
 
@@ -66,7 +87,7 @@ Link to [site](https://stateofjs.com).
 - [2021](https://2021.stateofjs.com)
 - [2022](https://2022.stateofjs.com)
 
-## State of CSS
+### State of CSS
 
 Link to [site](https://stateofcss.com).
 
@@ -76,13 +97,19 @@ Link to [site](https://stateofcss.com).
 - [2022](https://2022.stateofcss.com)
 - [2023](https://2023.stateofcss.com)
 
-## State of GraphQL
+### State of HTML
+
+Link to [site](https://stateofhtml.com).
+
+- 2023 - IN PROGRESS
+
+### State of GraphQL
 
 Link to [site](https://www.stateofgraphql.com).
 
 - [2022](https://2022.stateofgraphql.com)
 
-## Go Survey
+### Go Survey
 
 - [2023](https://go.dev/blog/survey2023-q1-results)
 - [2022](https://go.dev/blog/survey2022-q2-results)
@@ -93,7 +120,7 @@ Link to [site](https://www.stateofgraphql.com).
 - [2017](https://go.dev/blog/survey2017-results)
 - [2016](https://go.dev/blog/survey2016-results)
 
-## Rust Survey
+### Rust Survey
 
 Link to [GitHub repository](https://github.com/rust-lang/surveys).
 
@@ -104,7 +131,7 @@ Link to [GitHub repository](https://github.com/rust-lang/surveys).
 - [2017](https://blog.rust-lang.org/2017/09/05/Rust-2017-Survey-Results.html)
 - [2016](https://blog.rust-lang.org/2016/06/30/State-of-Rust-Survey-2016.html)
 
-## State of Clojure
+### State of Clojure
 
 - [2022](https://clojure.org/news/2022/06/02/state-of-clojure-2022)
 - [2021](https://clojure.org/news/2021/04/06/state-of-clojure-2021)
@@ -112,7 +139,7 @@ Link to [GitHub repository](https://github.com/rust-lang/surveys).
 - [2019](https://clojure.org/news/2019/02/04/state-of-clojure-2019)
 - [2018](https://clojure.org/news/2018/03/19/state-of-clojure-2018)
 
-## State of Haskell
+### State of Haskell
 
 - [2021](https://taylor.fausak.me/2021/11/16/haskell-survey-results)
 - [2020](https://taylor.fausak.me/2020/11/22/haskell-survey-results)
@@ -120,18 +147,19 @@ Link to [GitHub repository](https://github.com/rust-lang/surveys).
 - [2018](https://taylor.fausak.me/2018/11/18/2018-state-of-haskell-survey-results)
 - [2017](https://taylor.fausak.me/2017/11/15/2017-state-of-haskell-survey-results)
 
-## State of Postgres
 
-- [2022](https://www.timescale.com/state-of-postgres/2022)
-- [2021](https://www.timescale.com/state-of-postgres/2021)
+## Occuptations
 
-## State of Databases
+### Design Tools Survey
 
-Link to [site](https://stateofdb.com).
+- [2022](https://uxtools.co/survey/2022)
+- [2021](https://uxtools.co/survey/2021)
+- [2020](https://uxtools.co/survey/2020)
+- [2019](https://uxtools.co/survey/2019)
+- [2018](https://uxtools.co/survey/2018)
+- [2017](https://uxtools.co/survey/2017)
 
-- [2022](https://2022.stateofdb.com)
-
-## GitLab DevSecOps
+### GitLab DevSecOps
 
 - [2023](https://about.gitlab.com/developer-survey)
 - [2022](https://about.gitlab.com/developer-survey/previous/2022)
@@ -140,7 +168,7 @@ Link to [site](https://stateofdb.com).
 - [2019](https://about.gitlab.com/developer-survey/previous/2019)
 - [2018](https://about.gitlab.com/developer-survey/previous/2018)
 
-## State of Open Source Software
+### State of Open Source Software
 
 - [2022](https://octoverse.github.com/2022/state-of-open-source)
 - [2020](https://octoverse.github.com/2020)
@@ -148,36 +176,63 @@ Link to [site](https://stateofdb.com).
 - [2017](https://octoverse.github.com/2017)
 - [2016](https://octoverse.github.com/2016)
 
-## CNCF Annual Survey
+### State of the API Report
+
+- [2023](https://www.postman.com/state-of-api)
+- [2022](https://www.postman.com/state-of-api/2022)
+- [2021](https://www.postman.com/state-of-api/2021)
+- [2020](https://www.postman.com/state-of-api/2020)
+- [2019](https://www.postman.com/state-of-api/2019)
+- [2018](https://www.postman.com/state-of-api/2018)
+
+### Jamstack Community Survey
+
+- [2022](https://jamstack.org/survey/2022)
+- [2021](https://jamstack.org/survey/2021)
+- [2020](https://www.netlify.com/blog/2020/05/27/state-of-the-jamstack-survey-2020-first-results)
+
+## Database Ecosystem
+
+### State of Postgres
+
+- [2022](https://www.timescale.com/state-of-postgres/2022)
+- [2021](https://www.timescale.com/state-of-postgres/2021)
+
+### State of Databases
+
+Link to [site](https://stateofdb.com).
+
+- [2023](https://2023.stateofdb.com)
+- [2022](https://2022.stateofdb.com)
+
+## Smaller Surveys
+
+### CodinGame Developer Survey
+
+- [2021](https://www.codingame.com/work/codingame-developer-survey-2021)
+- [2020](https://www.codingame.com/work/codingame-developer-survey-2020)
+
+### CNCF Annual Survey
 
 Link to [GitHub repository](https://github.com/cncf/surveys).
 
 - [2022](https://www.cncf.io/reports/cncf-annual-survey-2022)
 - [2021](https://www.cncf.io/reports/cncf-annual-survey-2021)
 
-## GDC
+### GDC
 
 - [2022](https://images.reg.techweb.com/Web/UBMTechweb/%7B0e130537-da8b-43da-971d-ccd0104cdb02%7D_GDC22_Report_SOTI.pdf)
 
-## IGDA
+### IGDA
 
 Link to [GitHub repository](https://igda.org/dss).
 
-## Hacker Rank
-
-- [2023](https://www.hackerrank.com/research/developer-skills/2023)
-- [2022](https://www.hackerrank.com/research/developer-skills/2022)
-- [2021](https://www.hackerrank.com/research/developer-skills/2021)
-- [2020](https://www.hackerrank.com/research/developer-skills/2020)
-- [2019](https://www.hackerrank.com/research/developer-skills/2019)
-- [2018](https://www.hackerrank.com/research/developer-skills/2018)
-
-## Hacker Earth
+### Hacker Earth
 
 - [2021](https://www.hackerearth.com/recruit/resources/insights/developer-survey-2021)
 - [2020](https://www.hackerearth.com/recruit/developer-survey)
 
-## AWS Container Security Survey
+### AWS Container Security Survey
 
 - [2020](https://aws.amazon.com/blogs/containers/results-of-the-2020-aws-container-security-survey)
 - [2019](https://aws.amazon.com/blogs/containers/results-of-the-2019-aws-container-security-survey)
