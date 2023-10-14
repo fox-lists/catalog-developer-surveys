@@ -1,6 +1,6 @@
 # list-developer-surveys <!-- omit from toc -->
 
-Data can drive better decisions. Here are deve;p[er surveys that gather particular data about particular developers.
+Here are developer surveys that gather particular data about particular developers.
 
 ## Contents <!-- omit from toc -->
 
