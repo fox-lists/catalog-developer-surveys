@@ -1,4 +1,4 @@
-# list-developer-surveys <!-- omit from toc -->
+# catalog-developer-surveys <!-- omit from toc -->
 
 Here are developer surveys that gather particular data about particular developers.
 
