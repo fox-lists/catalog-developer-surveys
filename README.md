@@ -12,6 +12,7 @@ Here are developer surveys that gather particular data about particular develope
   - [State of JavaScript](#state-of-javascript)
   - [State of CSS](#state-of-css)
   - [State of HTML](#state-of-html)
+  - [State of React](#state-of-react)
   - [State of GraphQL](#state-of-graphql)
   - [Go Survey](#go-survey)
   - [Rust Survey](#rust-survey)
@@ -100,6 +101,12 @@ Link to [site](https://stateofcss.com).
 ### State of HTML
 
 Link to [site](https://stateofhtml.com).
+
+- 2023 - IN PROGRESS
+
+### State of React
+
+Link to [site](https://stateofreact.com).
 
 - 2023 - IN PROGRESS
 
