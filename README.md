@@ -42,19 +42,19 @@ Here are developer surveys that gather particular data about particular develope
 
 Link to [site](https://insights.stackoverflow.com/survey).
 
-- [2011](https://stackoverflow.blog/2011/01/11/survey-says)
-- [2012](https://stackoverflow.blog/2012/02/10/survey-result)
-- [2013](https://stackoverflow.blog/2013/01/25/2012-stack-overflow-user-survey-results)
-- [2014](https://stackoverflow.blog/2014/02/19/2013-stack-overflow-user-survey-results)
-- [2015](https://insights.stackoverflow.com/survey/2015)
-- [2016](https://insights.stackoverflow.com/survey/2016)
-- [2017](https://insights.stackoverflow.com/survey/2017)
-- [2018](https://insights.stackoverflow.com/survey/2018)
-- [2019](https://insights.stackoverflow.com/survey/2019)
-- [2020](https://insights.stackoverflow.com/survey/2020)
-- [2021](https://insights.stackoverflow.com/survey/2021)
-- [2022](https://survey.stackoverflow.co/2022)
 - [2023](https://survey.stackoverflow.co/2023)
+- [2022](https://survey.stackoverflow.co/2022)
+- [2021](https://insights.stackoverflow.com/survey/2021)
+- [2020](https://insights.stackoverflow.com/survey/2020)
+- [2019](https://insights.stackoverflow.com/survey/2019)
+- [2018](https://insights.stackoverflow.com/survey/2018)
+- [2017](https://insights.stackoverflow.com/survey/2017)
+- [2016](https://insights.stackoverflow.com/survey/2016)
+- [2015](https://insights.stackoverflow.com/survey/2015)
+- [2014](https://stackoverflow.blog/2014/02/19/2013-stack-overflow-user-survey-results)
+- [2013](https://stackoverflow.blog/2013/01/25/2012-stack-overflow-user-survey-results)
+- [2012](https://stackoverflow.blog/2012/02/10/survey-result)
+- [2011](https://stackoverflow.blog/2011/01/11/survey-says)
 
 ### JetBrains State of Developer Ecosystem
 
@@ -80,23 +80,23 @@ Link to [site](https://insights.stackoverflow.com/survey).
 
 Link to [site](https://stateofjs.com).
 
-- [2016](https://2016.stateofjs.com)
-- [2017](https://2017.stateofjs.com)
-- [2018](https://2018.stateofjs.com)
-- [2019](https://2019.stateofjs.com)
-- [2020](https://2020.stateofjs.com)
-- [2021](https://2021.stateofjs.com)
 - [2022](https://2022.stateofjs.com)
+- [2021](https://2021.stateofjs.com)
+- [2020](https://2020.stateofjs.com)
+- [2019](https://2019.stateofjs.com)
+- [2018](https://2018.stateofjs.com)
+- [2017](https://2017.stateofjs.com)
+- [2016](https://2016.stateofjs.com)
 
 ### State of CSS
 
 Link to [site](https://stateofcss.com).
 
-- [2019](https://2019.stateofcss.com)
-- [2020](https://2020.stateofcss.com)
-- [2021](https://2021.stateofcss.com)
-- [2022](https://2022.stateofcss.com)
 - [2023](https://2023.stateofcss.com)
+- [2022](https://2022.stateofcss.com)
+- [2021](https://2021.stateofcss.com)
+- [2020](https://2020.stateofcss.com)
+- [2019](https://2019.stateofcss.com)
 
 ### State of HTML
 
@@ -118,6 +118,7 @@ Link to [site](https://www.stateofgraphql.com).
 
 ### Go Survey
 
+- [2024](https://go.dev/blog/survey2024-h1-results)
 - [2023](https://go.dev/blog/survey2023-q1-results)
 - [2022](https://go.dev/blog/survey2022-q2-results)
 - [2021](https://go.dev/blog/survey2021-results)
@@ -131,6 +132,8 @@ Link to [site](https://www.stateofgraphql.com).
 
 Link to [GitHub repository](https://github.com/rust-lang/surveys).
 
+- [2023](https://blog.rust-lang.org/2024/02/19/2023-Rust-Annual-Survey-2023-results.html)
+- [2022](https://blog.rust-lang.org/2023/08/07/Rust-Survey-2023-Results.html)
 - [2021](https://blog.rust-lang.org/2022/02/15/Rust-Survey-2021.html)
 - [2020](https://blog.rust-lang.org/2020/12/16/rust-survey-2020.html)
 - [2019](https://blog.rust-lang.org/2020/04/17/Rust-survey-2019.html)
@@ -140,6 +143,8 @@ Link to [GitHub repository](https://github.com/rust-lang/surveys).
 
 ### State of Clojure
 
+- [2024](https://clojure.org/news/2024/12/02/state-of-clojure-2024)
+- [2023](https://clojure.org/news/2023/06/30/state-of-clojure-2023)
 - [2022](https://clojure.org/news/2022/06/02/state-of-clojure-2022)
 - [2021](https://clojure.org/news/2021/04/06/state-of-clojure-2021)
 - [2020](https://clojure.org/news/2020/02/20/state-of-clojure-2020)
@@ -148,6 +153,8 @@ Link to [GitHub repository](https://github.com/rust-lang/surveys).
 
 ### State of Haskell
 
+- 2023 [skipped](https://discourse.haskell.org/t/2023-state-of-haskell-survey/8213)
+- [2022](https://taylor.fausak.me/2022/11/18/haskell-survey-results)
 - [2021](https://taylor.fausak.me/2021/11/16/haskell-survey-results)
 - [2020](https://taylor.fausak.me/2020/11/22/haskell-survey-results)
 - [2019](https://taylor.fausak.me/2019/11/16/haskell-survey-results)
@@ -159,6 +166,7 @@ Link to [GitHub repository](https://github.com/rust-lang/surveys).
 
 ### Design Tools Survey
 
+- [2023](https://uxtools.co/survey/2023)
 - [2022](https://uxtools.co/survey/2022)
 - [2021](https://uxtools.co/survey/2021)
 - [2020](https://uxtools.co/survey/2020)
@@ -168,7 +176,8 @@ Link to [GitHub repository](https://github.com/rust-lang/surveys).
 
 ### GitLab DevSecOps
 
-- [2023](https://about.gitlab.com/developer-survey)
+- [2024](https://about.gitlab.com/developer-survey)
+- [2023](https://about.gitlab.com/developer-survey/previous/2023)
 - [2022](https://about.gitlab.com/developer-survey/previous/2022)
 - [2021](https://about.gitlab.com/developer-survey/previous/2021)
 - [2020](https://about.gitlab.com/developer-survey/previous/2020)
@@ -185,7 +194,8 @@ Link to [GitHub repository](https://github.com/rust-lang/surveys).
 
 ### State of the API Report
 
-- [2023](https://www.postman.com/state-of-api)
+- [2024](https://www.postman.com/state-of-api/2024)
+- [2023](https://www.postman.com/state-of-api/2023)
 - [2022](https://www.postman.com/state-of-api/2022)
 - [2021](https://www.postman.com/state-of-api/2021)
 - [2020](https://www.postman.com/state-of-api/2020)
@@ -202,6 +212,7 @@ Link to [GitHub repository](https://github.com/rust-lang/surveys).
 
 ### State of Postgres
 
+- [2023](https://www.timescale.com/state-of-postgres/2023)
 - [2022](https://www.timescale.com/state-of-postgres/2022)
 - [2021](https://www.timescale.com/state-of-postgres/2021)
 
@@ -209,7 +220,7 @@ Link to [GitHub repository](https://github.com/rust-lang/surveys).
 
 Link to [site](https://stateofdb.com).
 
-- [2023](https://2023.stateofdb.com)
+- [2023](https://stateofdb.com)
 - [2022](https://2022.stateofdb.com)
 
 ## Smaller Surveys
@@ -223,6 +234,7 @@ Link to [site](https://stateofdb.com).
 
 Link to [GitHub repository](https://github.com/cncf/surveys).
 
+- [2023](https://www.cncf.io/reports/cncf-annual-survey-2023)
 - [2022](https://www.cncf.io/reports/cncf-annual-survey-2022)
 - [2021](https://www.cncf.io/reports/cncf-annual-survey-2021)
 
@@ -236,6 +248,7 @@ Link to [GitHub repository](https://igda.org/dss).
 
 ### Hacker Earth
 
+- [2022-2023](https://www.hackerearth.com/recruit/resources/insights/drs2023)
 - [2021](https://www.hackerearth.com/recruit/resources/insights/developer-survey-2021)
 - [2020](https://www.hackerearth.com/recruit/developer-survey)
 
